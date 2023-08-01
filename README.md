@@ -60,11 +60,11 @@ Please ensure that you do not attempt to program the microcontroller while machi
 
 The firmware comes with a range of predefined settings, including temperature limits for different components, periods for capacitor charge and discharge, and the logic of the power MOSFET. These settings are located in the top portion of the main.py file and can be adjusted based on your needs.
 
-Usage
+## Usage
 Ensure that micropython is already uploaded to the pico. Flash this firmware to the pico using the pico-go-w extension in VS Code.
 
-Contributing
+## Contributing
 We welcome contributions to this project. If you've found a bug or have a feature request, please open an issue. If you would like to improve the firmware, please fork the repository and create a pull request.
 
-License
+## License
 This software is released by Rack Robotics, Inc. under the Creative Commons CC-BY-SA 2.0 license.
