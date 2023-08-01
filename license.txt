@@ -1,0 +1,3 @@
+License
+========
+“This software is released by Rack Robotics, inc. under the [Creative Commons CC-BY-SA 2.0 license.] (https://creativecommons.org/licenses/by-sa/2.0/legalcode "Creative Commons Legal Code")
