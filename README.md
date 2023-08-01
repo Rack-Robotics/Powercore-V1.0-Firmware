@@ -13,7 +13,7 @@ Electrical discharge machining (EDM) utilizes a thermoelectric process called 's
 by vaporizing/boiling away metal using many very small electric sparks. Sparks happen very quickly, lasting only for a
 fraction of a millisecond.
 
-The Rack Robotics's Powercore is a transistor-capacitor hybrid EDM power supply unit. The Powercore creates, maintains, and monitors electrical 
+The Rack Robotics's Powercore V1 is a transistor-capacitor hybrid EDM power supply unit. The Powercore creates, maintains, and monitors electrical 
 sparks in an EDM machine. It is designed to be affordable and hackable. The Powercore has several features to achive its purpose: 
 
     On-Board Raspberry Pi Pico  -   A drop-in Raspberry Pi Pico module is used as an on-board microcontroller, allowing for maximum flexibility. 
