@@ -48,7 +48,7 @@ sparks in an EDM machine. It is designed to be affordable and hackable. The Powe
 
 Clone the repository using the following command:
 
-git clone https://github.com/rack-robotics/powercore-firmware.git
+git clone https://github.com/rack-robotics/powercore-v1-firmware.git
 
 ## Setup
 
